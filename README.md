@@ -38,30 +38,22 @@ A web-based application built using Flask and SQLite3 to automate and streamline
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rahul-1809/College-Placement-Portal
-   cd College-Placement-Portal
+   git clone https://github.com/rahul-1809/College-Placement-Portal.git
    ```
 
-2. Create a virtual environment and activate it:
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use venv\Scripts\activate
-   ```
-
-3. Install dependencies:
+2. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Run the application:
+3. Run the application:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
-5. Open your browser and navigate to:
+4. Open your browser and navigate to:
 
    ```
    http://127.0.0.1:5000/
